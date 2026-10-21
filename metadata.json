@@ -1,0 +1,6 @@
+{
+  "name": "Q-Traffic: Intelligent Signal Control Using Q-Learning",
+  "description": "Interactive Deep Reinforcement Learning and Q-Learning simulation for multi-phase traffic signal optimization, comparing RL agents against fixed-time and actuated control baselines.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
